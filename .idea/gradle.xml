@@ -21,6 +21,11 @@
       </GradleProjectSettings>
       <GradleProjectSettings>
         <option name="externalProjectPath" value="$PROJECT_DIR$/practiceProject" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/practiceProject" />
+          </set>
+        </option>
       </GradleProjectSettings>
     </option>
   </component>
