@@ -1,4 +1,4 @@
-package lec01_variable_type;
+package lec01_variable_type.helper;
 
 import org.jetbrains.annotations.Nullable;
 

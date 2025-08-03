@@ -1,6 +1,4 @@
-package lec01_variable_type;
-
-import org.example.lec01_variable_type.Person;
+package lec01_variable_type.helper;
 
 public class VariableBasicTypePerson {
     public static void main(String[] args) { }

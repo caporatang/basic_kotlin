@@ -1,6 +1,6 @@
 package org.example.lec01_variable_type
 
-import lec01_variable_type.CommonPerson
+import lec01_variable_type.helper.CommonPerson
 
 /*
 * 코틀린에서 Type을 다루는 방법
