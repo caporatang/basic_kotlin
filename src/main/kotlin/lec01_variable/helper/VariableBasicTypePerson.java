@@ -1,4 +1,4 @@
-package lec01_variable_type.helper;
+package lec01_variable.helper;
 
 public class VariableBasicTypePerson {
     public static void main(String[] args) { }

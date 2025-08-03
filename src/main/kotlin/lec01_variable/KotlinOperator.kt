@@ -1,6 +1,6 @@
 package org.example.lec01_variable_type
 
-import lec01_variable_type.helper.JavaMoney
+import lec01_variable.helper.JavaMoney
 import org.example.lec01_variable_type.helper.KotlinMoney
 
 
